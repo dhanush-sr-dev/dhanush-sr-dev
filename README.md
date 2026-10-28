@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dhanush S R 👋
 
-<!--
-**dhanush-sr-dev/dhanush-sr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Interested in Software Development  
+🌱 Currently learning C and Python  
+🚀 Working on my project: Smart Seed Selector
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Smart Seed Selector** — A project that analyzes soil moisture, pH, temperature, and electrical conductivity to recommend suitable crops.
+
+## 🎯 Career Goal
+To become a skilled Software Engineer and build useful real-world applications.
+
+## 🤝 Connect with Me
+- GitHub: [@dhanush-sr-dev](https://github.com/dhanush-sr-dev)
